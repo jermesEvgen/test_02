@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css?family=Ubuntu:300,400,500,700');
+
+body {
+	font-family: 'Ubuntu', sans-serif;
+}
+p {
+	font-weight: 100;
+}
+a {
+	font-weight: 400;
+}
+
+.wrapper {
+	width: 900px;
+	margin: 0 auto;
+}
+.wrapper-card {
+	width: 100%;
+	margin: 4em 0;
+}
+.wrapper-card_position {
+	display: flex;
+	align-items: flex-start;
+	justify-content: space-around;
+}
+.wrapper-card__title img {
+  display: block;
+  margin : 1em 0; 
+}
+.wrapper-card__title{
+	width: 30%;
+	display: inline-block;
+}
+.wrapper-card__descrpt {
+  width: 70%;
+}

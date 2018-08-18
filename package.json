@@ -1,0 +1,33 @@
+{
+  "name": "test_02",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-rename": "^1.4.0"
+  },
+  "devDependencies": {
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-concat-css": "^3.1.0",
+    "gulp-connect": "^5.5.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-uglifyjs": "^0.6.2",
+    "imagemin-pngquant": "^6.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jermesEvgen/test_02.git"
+  },
+  "author": "evgenJermes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jermesEvgen/test_02/issues"
+  },
+  "homepage": "https://github.com/jermesEvgen/test_02#readme"
+}
